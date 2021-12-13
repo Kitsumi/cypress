@@ -1,2 +1,2 @@
-# cypress
-Markov chain-based chatter bot.
+# Cypress
+An chatterbot using markov chains.
